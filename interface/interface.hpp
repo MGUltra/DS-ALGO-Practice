@@ -22,8 +22,12 @@ public:
 
 	// Constructors
 	
+	Interface();
+
 	// Destructors
 	
+	~Interface();
+
 	// Copy Constructor
 	
 	// Assignment Operator
@@ -32,11 +36,6 @@ public:
 	
 	// Get Functions
 
-}
-
-
-
-
-
+};
 
 #endif
