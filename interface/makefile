@@ -10,9 +10,9 @@ CXXFLAGS += -Weffc++
 
 # all Variables
 
-VARIABLEOBJECTS = v1.o v2.o
-VARIABLESRCS = v1.cpp v2.cpp
-VARIABLEHEADERS = v1.hpp v2.hpp
+INTERFACEOBJECTS = interface.o
+INTERFACESRCS = interface.cpp
+INTERFACEHEADERS = interface.hpp
 
 all:
 
